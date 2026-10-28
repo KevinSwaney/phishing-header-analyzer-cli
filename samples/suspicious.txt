@@ -1,0 +1,7 @@
+From: "PayPal Support" <support@paypa1-secure-login.com>
+Reply-To: helpdesk@randommail.example
+Return-Path: <bounce@other.example>
+Subject: Urgent: verify your account within 24 hours
+Date: Sat, 11 Oct 2026 09:14:00 -0400
+Authentication-Results: mx.example.com; spf=fail; dkim=fail; dmarc=fail
+Received: from mail.attacker.example by mx.example.com
